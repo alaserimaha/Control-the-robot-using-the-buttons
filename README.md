@@ -47,4 +47,4 @@ In order to be able to connect the Arduino to the database first we have to down
 Then we have to add the Arduino user to the database and give him permissions to read the data
 Let's say the username is `arduino_user` and the password is `1234`
 
-CREATE USER 'arduino_user'@'localhost' IDENTIFIED BY '1234';
+      CREATE USER 'arduino_user'@'localhost' IDENTIFIED BY '1234';
