@@ -26,8 +26,8 @@ As we mentioned in the [previous repository](https://github.com/alaserimaha/Cont
 Since we want to store a letter where the letter represents the direction of movement, if the command is `left`, the letter `l` will be stored in the database, and so on
 
 To view the steps to create the database again:
- 1- Open XAMPP and run Apache Web Server and MySQL Database
- 2- Go to application and open phpmyadmin by searching http://localhost/phpmyadmin/
- 3- From the bar, create a new database ( from new button ), let's say its name is (db)
- 4- Create a table inside the database, let's say its name is (table)
- 5- For our example, we only need one column of type VARCHAR , let's say its name is (value)
+1- Open XAMPP and run Apache Web Server and MySQL Database
+2- Go to application and open phpmyadmin by searching http://localhost/phpmyadmin/
+3- From the bar, create a new database ( from new button ), let's say its name is (db)
+4- Create a table inside the database, let's say its name is (table)
+5- For our example, we only need one column of type VARCHAR , let's say its name is (value)
