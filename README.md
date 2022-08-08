@@ -52,3 +52,7 @@ Let's say the username is `arduino_user` and the password is `1234`
 And to give arduino_user permission to the db database
 
      GRANT ALL ON db TO 'arduino_user'@'localhost';
+     
+Now we will write an Arduino sketch to connect with the database and print the data (later we can develop the sketch and execute these commands by moving the robot)
+
+You can see the sketch from the attached files above 
