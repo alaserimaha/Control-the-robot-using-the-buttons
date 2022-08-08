@@ -14,4 +14,6 @@ Now let's start with the steps of creating our project
 ## 4- Connect the Arduino to the database to read and apply the commands
 
 ## 1- Create a web page that includes robot control buttons
-We will create a simple page, which includes 5 navigation buttons (Backward ، Forward, Right, Left and Stop) and when you press any of them, it will convert the value of the button to a php page
+We will create a simple page, which includes 5 navigation buttons (Backward ، Forward, Right, Left and Stop) and when you press any of them, it will convert the value of the button to a php page with the help of GET mehthod .
+
+We wrote a simple html code to represent this idea ، you can find the html code from the attachments above [getForm.php]()
