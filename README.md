@@ -31,3 +31,4 @@ To view the steps to create the database again:
 3) From the bar, create a new database ( from new button ), let's say its name is (db)
 4) Create a table inside the database, let's say its name is (table)
 5) For our example, we only need one column of type VARCHAR , let's say its name is (value)
+<img width="1314" alt="database" src="https://user-images.githubusercontent.com/60073836/183421266-7b9247f6-75d4-47a7-8e9b-cac28a7b6d04.png">
