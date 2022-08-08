@@ -42,7 +42,7 @@ We wrote a php page to represent it ، you can find it from the attachments abov
 
 ## 4- Connect the Arduino to the database to read and apply the commands
 
-In order to be able to connect the Arduino to the database first we have to download the MySQL library in our Arduino IDE, for more information on how to download [click here] add here the link
+In order to be able to connect the Arduino to the database first we have to download the MySQL library in our Arduino IDE, for more information on how to download [click here](https://github.com/alaserimaha/Connect-the-Arduino-to-the-web#2-installation---arduino-1)
 
 
 Then we have to add the Arduino user to the database and give him permissions to read the data
@@ -55,4 +55,10 @@ And to give arduino_user permission to the db database
      
 Now we will write an Arduino sketch to connect with the database and print the data (later we can develop the sketch and execute these commands by moving the robot)
 
-You can see the sketch from the attached files above 
+You can see the sketch from the attached files above [sketch_get_data_of_MySQL.ino](https://github.com/alaserimaha/Control-the-robot-using-the-buttons/blob/main/sketch_get_data_of_MySQL.ino )
+
+And we're done, good luck
+
+The reference : 
+- https://www.arduino.cc/reference/en/libraries/mysql-connector-arduino/
+- https://github.com/ChuckBell/MySQL_Connector_Arduino
