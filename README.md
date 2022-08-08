@@ -17,3 +17,5 @@ Now let's start with the steps of creating our project
 We will create a simple page, which includes 5 navigation buttons (Backward ، Forward, Right, Left and Stop) and when you press any of them, it will convert the value of the button to a php page with the help of GET mehthod .
 
 We wrote a simple html code to represent this idea ، you can find the html code from the attachments above [control_robot.php](https://github.com/alaserimaha/Control-the-robot-using-the-buttons/blob/main/control_robot.php)
+
+<img width="1294" alt="control_robot.php" src="https://user-images.githubusercontent.com/60073836/183419797-eb91e506-9307-496e-96c3-69170dc460da.png">
