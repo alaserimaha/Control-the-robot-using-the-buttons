@@ -35,5 +35,8 @@ To view the steps to create the database again:
 
 ## 3- Create a php page to connect the web page and the database
 To connect the web page to the database, we need to create a php page where it receives the movement from the web page (for example `right`) and takes the letter that represents it (in this case `r`) and then connects with the database to store this character, if the storage process is successful it appears Message (The char .... has been stored Successfully)
-We wrote a php page to represent it ، you can find it from the attachments above [functioncalling.php]
+We wrote a php page to represent it ، you can find it from the attachments above [functioncalling.php](https://github.com/alaserimaha/Control-the-robot-using-the-buttons/blob/main/functioncalling.php)
+
+
+<img width="648" alt="functioncalling.php" src="https://user-images.githubusercontent.com/60073836/183422616-1a3ddc92-5375-4f60-86d9-dcc1ce96cdd0.png">
 د
