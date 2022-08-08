@@ -40,3 +40,11 @@ We wrote a php page to represent it ، you can find it from the attachments abov
 
 <img width="648" alt="functioncalling.php" src="https://user-images.githubusercontent.com/60073836/183422616-1a3ddc92-5375-4f60-86d9-dcc1ce96cdd0.png">
 د
+## 4- Connect the Arduino to the database to read and apply the commands
+In order to be able to connect the Arduino to the database first we have to download the MySQL library in our Arduino IDE, for more information on how to download [click here] add here the link
+
+
+Then we have to add the Arduino user to the database and give him permissions to read the data
+Let's say the username is `arduino_user` and the password is `1234`
+
+CREATE USER 'arduino_user'@'localhost' IDENTIFIED BY '1234';
